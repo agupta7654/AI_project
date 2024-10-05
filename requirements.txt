@@ -1,1 +1,2 @@
 tsfresh[dask]
+streamlit=1.1.*

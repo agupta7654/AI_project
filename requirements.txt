@@ -2,3 +2,4 @@ tsfresh[dask]
 streamlit==1.39.0
 numpy==1.23.5
 scikit-learn==1.3.2
+setuptools<50.0.0

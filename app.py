@@ -24,9 +24,9 @@ pca_dim_reducer = pca_model()
 pred_model = trained_model()
 
 # Title of the app
-st.title('FocusPredict')
-st.header('ADHD Predictor')
-
+st.markdown("<h1 style='text-align: center; font-size: 80px;'>FocusPredict</h1>", unsafe_allow_html=True)
+st.write("")
+st.subheader('ADHD Predictor')
 # set the image
 st.image(IMAGE_ADDRESS, caption = "ADHD_Detection")
 

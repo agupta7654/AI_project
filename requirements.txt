@@ -1,3 +1,2 @@
-tsfresh[dask]
 streamlit==1.39.0
 numpy==1.23.5
